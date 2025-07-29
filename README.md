@@ -22,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [1894-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
