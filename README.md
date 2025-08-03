@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sj1815/leetcode-questions/tree/master/0443-string-compression) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/sj1815/leetcode-questions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/sj1815/leetcode-questions/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/sj1815/leetcode-questions/tree/master/0806-domino-and-tromino-tiling) |
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
