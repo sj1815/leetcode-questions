@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/sj1815/leetcode-questions/tree/master/0443-string-compression) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/sj1815/leetcode-questions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
@@ -148,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
