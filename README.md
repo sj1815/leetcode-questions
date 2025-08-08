@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sj1815/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
+| [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
+| [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
