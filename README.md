@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/sj1815/leetcode-questions/tree/master/0443-string-compression) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sj1815/leetcode-questions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sj1815/leetcode-questions/tree/master/0198-house-robber) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
