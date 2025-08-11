@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/sj1815/leetcode-questions/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
+## Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
