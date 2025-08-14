@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sj1815/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/sj1815/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1815/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sj1815/leetcode-questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sj1815/leetcode-questions/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sj1815/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1815/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sj1815/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1815/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
