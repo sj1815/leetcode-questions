@@ -8,3 +8,4 @@ class Solution:
         for i in range(n):
             a[(i + k) % n] = nums[i]
         nums[:] = a
+
