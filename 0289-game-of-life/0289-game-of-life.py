@@ -3,9 +3,9 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        neighbors = [(1, 0), (1, -1), (0, -1), ( -1, -1), (-1, 0), (-1, 1), (0, 1), ( 1, 1)]
-        rows, cols = len(board), len(board[0])
+        neighbors =[(1, 0), (0, -1), (-1, 0), (-1, -1), (1, -1), (-1, 1), (0, 1), (1, 1)]
 
+        rows, cols = len(board), len(board[0])
         board_copy = copy.deepcopy(board)
 
         for row in range(rows):
@@ -16,9 +16,11 @@ class Solution:
                     c = (col + neighbor[1])
                     if (r < rows and r >= 0) and (c < cols and c >= 0) and (board_copy[r][c] == 1):
                         live_neighbors += 1
-
+        
                 if board_copy[row][col] == 1 and (live_neighbors < 2 or live_neighbors > 3):
                     board[row][col] = 0
 
                 if board_copy[row][col] == 0 and live_neighbors == 3:
                     board[row][col] = 1
+
+        
