@@ -8,6 +8,7 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if head is None:
             return False
+
         slow_pointer, fast_pointer = head, head.next
 
         while fast_pointer and fast_pointer.next:
@@ -18,4 +19,3 @@ class Solution:
                 return True
 
         return False
-        
