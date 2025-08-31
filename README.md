@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sj1815/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sj1815/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sj1815/leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sj1815/leetcode-questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sj1815/leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1815/leetcode-questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/0045-jump-game-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sj1815/leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sj1815/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sj1815/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1815/leetcode-questions/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
 ## Randomized
