@@ -5,7 +5,7 @@ class Solution:
 
         for i in range(len(points)):
             yi = points[i][1]
-            max_y = - 10 ** 9 - 1
+            max_y = float("-inf")
             for j in range(i + 1, len(points)):
                 yj = points[j][1]
                 if yi >= yj > max_y:
