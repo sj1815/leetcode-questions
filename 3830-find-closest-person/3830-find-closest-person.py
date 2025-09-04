@@ -1,8 +1,9 @@
 class Solution:
     def findClosest(self, x: int, y: int, z: int) -> int:
-        if abs(z - x) == abs(z - y):
+        dist_xz, dist_yz = abs(z - x), abs(z - y)
+        if dist_xz == dist_yz:
             return 0
-        elif abs(z - x) < abs(z - y):
+        elif dist_xz < dist_yz:
             return 1
         else:
             return 2
