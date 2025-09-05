@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -393,11 +395,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Enumeration
 |  |
 | ------- |
