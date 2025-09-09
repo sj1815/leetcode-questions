@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Memoization
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Data Stream
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Tree
 |  |
 | ------- |
