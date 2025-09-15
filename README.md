@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/sj1815/leetcode-questions/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sj1815/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
