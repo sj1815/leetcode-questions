@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sj1815/leetcode-questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sj1815/leetcode-questions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1098-largest-unique-number](https://github.com/sj1815/leetcode-questions/tree/master/1098-largest-unique-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1095-two-city-scheduling) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
