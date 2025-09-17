@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sj1815/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sj1815/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sj1815/leetcode-questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1098-largest-unique-number](https://github.com/sj1815/leetcode-questions/tree/master/1098-largest-unique-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sj1815/leetcode-questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 ## Counting
