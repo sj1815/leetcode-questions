@@ -1,11 +1,11 @@
 class Solution:
     def mostVisitedPattern(self, username: List[str], timestamp: List[int], website: List[str]) -> List[str]:
-        # Step 1: Sort all visits by timestamp
-        visits = sorted(zip(timestamp, username, website))
+        # # Step 1: Sort all visits by timestamp
+        # visits = sorted(zip(timestamp, username, website))
         
         # Step 2: Group websites by user
         user_visits = defaultdict(list)
-        for t, u, w in visits:
+        for t, u, w in sorted(zip(timestamp, username, website)):
             user_visits[u].append(w)
         
         # Step 3: Generate unique 3-sequence patterns per user
