@@ -594,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/sj1815/leetcode-questions/tree/master/0277-find-the-celebrity) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/sj1815/leetcode-questions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
