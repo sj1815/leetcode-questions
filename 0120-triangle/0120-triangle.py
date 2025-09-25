@@ -1,12 +1,6 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-        n = len(triangle)
-
-        @lru_cache(None)
-        def dfs(r, c):
-            if r == n - 1:
-                return triangle[r][c]
-            
-            return triangle[r][c] + min(dfs(r + 1, c), dfs(r + 1, c + 1))
-        
-        return dfs(0, 0)
+        for r in range(len(triangle) - 2, -1, -1):
+            for c in range(len(triangle[r])):
+                triangle[r][c] += min(triangle[r + 1][c], triangle[r + 1][c + 1])
+        return triangle[0][0]
