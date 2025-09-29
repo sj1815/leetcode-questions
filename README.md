@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sj1815/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sj1815/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1815/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sj1815/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sj1815/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/sj1815/leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sj1815/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1815/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sj1815/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
