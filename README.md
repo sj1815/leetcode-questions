@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sj1815/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sj1815/leetcode-questions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
