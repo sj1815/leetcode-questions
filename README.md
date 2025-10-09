@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/sj1815/leetcode-questions/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sj1815/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/sj1815/leetcode-questions/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
