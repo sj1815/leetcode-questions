@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sj1815/leetcode-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1815/leetcode-questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/sj1815/leetcode-questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sj1815/leetcode-questions/tree/master/3827-implement-router) |
 ## Greedy
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/sj1815/leetcode-questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sj1815/leetcode-questions/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1815/leetcode-questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Data Stream
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1815/leetcode-questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
 | ------- |
