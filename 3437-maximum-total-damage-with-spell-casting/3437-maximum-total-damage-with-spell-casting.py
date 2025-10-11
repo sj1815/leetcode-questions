@@ -1,16 +1,21 @@
 class Solution:
     def maximumTotalDamage(self, power: List[int]) -> int:
-        count = Counter(power)
-        vec = [(-(10**9), 0)]
-        for k in sorted(count.keys()):
-            vec.append((k, count[k]))
-        n = len(vec)
-        f = [0] * n
-        mx = 0
-        j = 1
+        freq = Counter(power)
+        keys = sorted(freq)
+        n = len(keys)
+        dp = [0] * n
+        dp[0] = freq[keys[0]] * keys[0]
         for i in range(1, n):
-            while j < i and vec[j][0] < vec[i][0] - 2:
-                mx = max(mx, f[j])
-                j += 1
-            f[i] = mx + vec[i][0] * vec[i][1]
-        return max(f)
+            take = freq[keys[i]] * keys[i]
+            l, r, ans = 0, i - 1, -1
+            while l <= r:
+                mid = (l + r) // 2
+                if keys[mid] <= keys[i] - 3:
+                    ans = mid
+                    l = mid + 1
+                else:
+                    r = mid - 1
+            if ans >= 0:
+                take += dp[ans]
+            dp[i] = max(dp[i - 1], take)
+        return dp[-1]
