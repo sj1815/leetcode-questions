@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1815/leetcode-questions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/sj1815/leetcode-questions/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
 ## Randomized
