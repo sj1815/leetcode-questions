@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/sj1815/leetcode-questions/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sj1815/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/sj1815/leetcode-questions/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
