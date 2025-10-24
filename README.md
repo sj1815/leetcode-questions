@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sj1815/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sj1815/leetcode-questions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sj1815/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1815/leetcode-questions/tree/master/0039-combination-sum) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sj1815/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1815/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
