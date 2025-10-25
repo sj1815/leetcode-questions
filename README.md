@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sj1815/leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sj1815/leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
