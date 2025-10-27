@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sj1815/leetcode-questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sj1815/leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sj1815/leetcode-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sj1815/leetcode-questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sj1815/leetcode-questions/tree/master/0063-unique-paths-ii) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1815/leetcode-questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1815/leetcode-questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sj1815/leetcode-questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sj1815/leetcode-questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sj1815/leetcode-questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sj1815/leetcode-questions/tree/master/0078-subsets) |
