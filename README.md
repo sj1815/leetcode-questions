@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sj1815/leetcode-questions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/sj1815/leetcode-questions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/sj1815/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sj1815/leetcode-questions/tree/master/0127-word-ladder) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sj1815/leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sj1815/leetcode-questions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sj1815/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sj1815/leetcode-questions/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sj1815/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sj1815/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sj1815/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sj1815/leetcode-questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sj1815/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/sj1815/leetcode-questions/tree/master/0221-maximal-square) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sj1815/leetcode-questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sj1815/leetcode-questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sj1815/leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sj1815/leetcode-questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
