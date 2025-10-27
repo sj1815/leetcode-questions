@@ -3,8 +3,8 @@ class Solution:
         if digits == '':
             return []
         
-        res, sol = [], []
         n = len(digits)
+        ans, res = [], []
         letter_map = {
             "2" : "abc",
             "3" : "def",
@@ -15,16 +15,23 @@ class Solution:
             "8" : "tuv",
             "9" : "wxyz"
         }
-        
+
         def backtrack(i = 0):
             if i == n:
-                res.append(''.join(sol))
+                ans.append(''.join(res))
                 return
-
+            
             for letter in letter_map[digits[i]]:
-                sol.append(letter)
+                res.append(letter)
                 backtrack(i + 1)
-                sol.pop()
+                res.pop()
 
         backtrack(0)
-        return res
+        return ans
+
+
+
+        
+
+
+        
