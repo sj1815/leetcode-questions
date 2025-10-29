@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1815/leetcode-questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sj1815/leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sj1815/leetcode-questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2645-pass-the-pillow](https://github.com/sj1815/leetcode-questions/tree/master/2645-pass-the-pillow) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sj1815/leetcode-questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sj1815/leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Interactive
 |  |
