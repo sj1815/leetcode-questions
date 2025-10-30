@@ -11,7 +11,7 @@ class Solution:
         def dfs(root):
             if not root:
                 return 0
-
+            
             leftMax = dfs(root.left)
             rightMax = dfs(root.right)
             leftMax = max(leftMax, 0)
@@ -20,7 +20,7 @@ class Solution:
             res[0] = max(res[0], leftMax + rightMax + root.val)
 
             return root.val + max(leftMax, rightMax)
-        
+
         dfs(root)
         return res[0]
         
