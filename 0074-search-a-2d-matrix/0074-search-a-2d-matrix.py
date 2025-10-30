@@ -3,21 +3,20 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
         t = m * n
-        left = 0
-        right = t - 1
-
-        while left <= right:
-            m = (left + right) // 2
-            i = m // n
-            j = m % n
+        l, r = 0, t - 1
+        
+        while l <= r:
+            mid = (l + r) // 2
+            i = mid // n
+            j = mid % n
 
             mid_num = matrix[i][j]
 
             if target == mid_num:
                 return True
             elif target < mid_num:
-                right = m - 1
+                r = mid - 1
             else:
-                left = m + 1
-                
+                l = mid + 1
+        
         return False
