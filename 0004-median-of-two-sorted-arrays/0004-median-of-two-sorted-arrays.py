@@ -1,31 +1,30 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        m, n = len(nums1), len(nums2)
-        p1, p2 = 0, 0
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
 
-        # Get the smaller value between nums1[p1] and nums2[p2].
-        def get_min():
-            nonlocal p1, p2
-            if p1 < m and p2 < n:
-                if nums1[p1] < nums2[p2]:
-                    ans = nums1[p1]
-                    p1 += 1
-                else:
-                    ans = nums2[p2]
-                    p2 += 1
-            elif p2 == n:
-                ans = nums1[p1]
-                p1 += 1
+        if len(B) < len(A):
+            A, B = B, A
+
+        l, r = 0, len(A) - 1
+        while True:
+            i = (l + r) // 2  # A
+            j = half - i - 2  # B
+
+            Aleft = A[i] if i >= 0 else float("-infinity")
+            Aright = A[i + 1] if (i + 1) < len(A) else float("infinity")
+            Bleft = B[j] if j >= 0 else float("-infinity")
+            Bright = B[j + 1] if (j + 1) < len(B) else float("infinity")
+
+            # partition is correct
+            if Aleft <= Bright and Bleft <= Aright:
+                # odd
+                if total % 2:
+                    return min(Aright, Bright)
+                # even
+                return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            elif Aleft > Bright:
+                r = i - 1
             else:
-                ans = nums2[p2]
-                p2 += 1
-            return ans
-
-        if (m + n) % 2 == 0:
-            for _ in range((m + n) // 2 - 1):
-                _ = get_min()
-            return (get_min() + get_min()) / 2
-        else:
-            for _ in range((m + n) // 2):
-                _ = get_min()
-            return get_min()
+                l = i + 1
