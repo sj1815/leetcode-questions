@@ -14,7 +14,7 @@ class Solution:
     def flattenTree(self, node: Optional[TreeNode]) -> TreeNode:
         if not node:
             return None
-
+        
         if not node.left and not node.right:
             return node
 
@@ -25,6 +25,6 @@ class Solution:
             leftTail.right = node.right
             node.right = node.left
             node.left = None
-
-        return rightTail if rightTail else leftTail 
         
+        return rightTail if rightTail else leftTail
+
