@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sj1815/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sj1815/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sj1815/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sj1815/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sj1815/leetcode-questions/tree/master/0055-jump-game) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sj1815/leetcode-questions/tree/master/0143-reorder-list) |
