@@ -7,23 +7,26 @@ class Solution:
         UNVISITED = 0
         VISITING = 1
         VISITED = 2
-        status = [UNVISITED] * numCourses
+        schedule = [UNVISITED] * numCourses
 
         def dfs(node):
-            s = status[node]
+            s = schedule[node]
             if s == VISITED: return True
-            elif s == VISITING: return False
+            if s == VISITING: return False
 
-            status[node] = VISITING
+            schedule[node] = VISITING
 
             for nei in g[node]:
-                if not dfs(nei): return False
-            
-            status[node] = VISITED
+                if not dfs(nei):
+                    return False
+
+            schedule[node] = VISITED
             return True
 
         for i in range(numCourses):
             if not dfs(i):
                 return False
-        return True 
+        return True
+
+        
         
