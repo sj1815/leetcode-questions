@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/sj1815/leetcode-questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sj1815/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sj1815/leetcode-questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1815/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sj1815/leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sj1815/leetcode-questions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sj1815/leetcode-questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sj1815/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sj1815/leetcode-questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1815/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sj1815/leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
