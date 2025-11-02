@@ -15,6 +15,7 @@ class Solution:
                 return memo[i]
             else:
                 memo[i] = max(dp(i - 1), dp(i - 2) + nums[i])
+                return memo[i]
 
         return dp(n - 1)
 
