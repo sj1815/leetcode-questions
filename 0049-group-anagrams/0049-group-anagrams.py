@@ -1,6 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        ans = collections.defaultdict(list)
-        for s in strs:
-            ans[tuple(sorted(s))].append(s)
-        return list(ans.values())
+        anagrams = {}
+
+        for word in strs:
+            key = ''.join(sorted(word))
+            if key not in anagrams:
+                anagrams[key] = []
+            anagrams[key].append(word)
+
+        return list(anagrams.values())
+        
