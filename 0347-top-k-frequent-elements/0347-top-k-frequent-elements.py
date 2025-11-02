@@ -4,6 +4,7 @@ class Solution:
             return nums
 
         count = collections.Counter(nums)
+        #return heapq.nlargest(k, count.keys(), key=count.get) 
         keys = list(count.keys())
         keys.sort(key=lambda x: count[x], reverse=True)
         return keys[:k]
