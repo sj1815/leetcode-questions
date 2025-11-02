@@ -1,35 +1,20 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        memo = [
-            [None for _ in range(len(word2) + 1)] for _ in range(len(word1) + 1)
-        ]
+        m, n = len(word1), len(word2)
+        cache = [[float('inf')] * (n + 1) for _ in range(m + 1)]
 
-        def minDistanceRecur(word1, word2, word1Index, word2Index):
-            if word1Index == 0:
-                return word2Index
-            if word2Index == 0:
-                return word1Index
-            if memo[word1Index][word2Index] is not None:
-                return memo[word1Index][word2Index]
-            minEditDistance = 0
-            if word1[word1Index - 1] == word2[word2Index - 1]:
-                minEditDistance = minDistanceRecur(
-                    word1, word2, word1Index - 1, word2Index - 1
-                )
-            else:
-                insertOperation = minDistanceRecur(
-                    word1, word2, word1Index, word2Index - 1
-                )
-                deleteOperation = minDistanceRecur(
-                    word1, word2, word1Index - 1, word2Index
-                )
-                replaceOperation = minDistanceRecur(
-                    word1, word2, word1Index - 1, word2Index - 1
-                )
-                minEditDistance = (
-                    min(insertOperation, deleteOperation, replaceOperation) + 1
-                )
-            memo[word1Index][word2Index] = minEditDistance
-            return minEditDistance
+        for j in range(n + 1):
+            cache[m][j] = n - j
+        for i in range(m + 1):
+            cache[i][n] = m - i
 
-        return minDistanceRecur(word1, word2, len(word1), len(word2))
+        for i in range(m - 1, -1, -1):
+            for j in range(n - 1, -1, -1):
+                if word1[i] == word2[j]:
+                    cache[i][j] = cache[i + 1][j + 1]
+                else:
+                    cache[i][j] = 1 + min(cache[i + 1][j], cache[i][j + 1], cache[i + 1][j + 1])
+
+        return cache[0][0]
+
+        
