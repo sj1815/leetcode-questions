@@ -12,7 +12,7 @@ class Solution:
 
         for i in range(n + 1):
             first = first.next
-        
+
         while first is not None:
             first = first.next
             second = second.next
