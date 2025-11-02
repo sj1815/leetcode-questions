@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/sj1815/leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sj1815/leetcode-questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sj1815/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sj1815/leetcode-questions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/sj1815/leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
