@@ -5,5 +5,6 @@ class Solution:
 
         for candy in candies:
             res.append(candy + extraCandies >= max_candies)
-
+        
         return res
+        
