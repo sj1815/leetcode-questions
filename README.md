@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sj1815/leetcode-questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sj1815/leetcode-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sj1815/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sj1815/leetcode-questions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sj1815/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/sj1815/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sj1815/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sj1815/leetcode-questions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/sj1815/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sj1815/leetcode-questions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sj1815/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sj1815/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sj1815/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sj1815/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sj1815/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/sj1815/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1098,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sj1815/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
