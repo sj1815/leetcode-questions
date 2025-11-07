@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1815/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sj1815/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0305-number-of-islands-ii](https://github.com/sj1815/leetcode-questions/tree/master/0305-number-of-islands-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1815/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sj1815/leetcode-questions/tree/master/0165-compare-version-numbers) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/sj1815/leetcode-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sj1815/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sj1815/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1815/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/sj1815/leetcode-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sj1815/leetcode-questions/tree/master/0198-house-robber) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sj1815/leetcode-questions/tree/master/0155-min-stack) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sj1815/leetcode-questions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
