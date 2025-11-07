@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sj1815/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sj1815/leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
