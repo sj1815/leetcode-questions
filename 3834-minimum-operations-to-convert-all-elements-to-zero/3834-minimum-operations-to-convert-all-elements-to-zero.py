@@ -1,13 +1,15 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        s = []
+        stack = []
         res = 0
-        for a in nums:
-            while s and s[-1] > a:
-                s.pop()
-            if a == 0:
+        for num in nums:
+            while stack and stack[-1] > num:
+                stack.pop()
+            if num == 0:
                 continue
-            if not s or s[-1] < a:
+            if not stack or stack[-1] < num:
                 res += 1
-                s.append(a)
+                stack.append(num)
         return res
+
+        
