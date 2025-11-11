@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/sj1815/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sj1815/leetcode-questions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/sj1815/leetcode-questions/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sj1815/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/sj1815/leetcode-questions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1815/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
