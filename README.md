@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2122-count-special-quadruplets](https://github.com/sj1815/leetcode-questions/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sj1815/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/sj1815/leetcode-questions/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/sj1815/leetcode-questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sj1815/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sj1815/leetcode-questions/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sj1815/leetcode-questions/tree/master/2288-count-operations-to-obtain-zero) |
