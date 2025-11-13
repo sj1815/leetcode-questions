@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-two-city-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1095-two-city-scheduling) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/sj1815/leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
+| [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sj1815/leetcode-questions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1815/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
+| [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
