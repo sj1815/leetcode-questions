@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/sj1815/leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sj1815/leetcode-questions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/sj1815/leetcode-questions/tree/master/0445-add-two-numbers-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/sj1815/leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
