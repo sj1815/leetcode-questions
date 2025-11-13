@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sj1815/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sj1815/leetcode-questions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sj1815/leetcode-questions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1815/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Topological Sort
