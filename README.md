@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sj1815/leetcode-questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
