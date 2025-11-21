@@ -9,7 +9,6 @@ class Solution:
             
             for k in range(i + 1, j):
                 between.add(s[k])
-            
             ans += len(between)
-
+            
         return ans
