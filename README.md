@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/sj1815/leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1087-longest-arithmetic-subsequence) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/sj1815/leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/sj1815/leetcode-questions/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
