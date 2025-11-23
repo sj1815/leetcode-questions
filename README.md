@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sj1815/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1118-divide-array-into-increasing-sequences](https://github.com/sj1815/leetcode-questions/tree/master/1118-divide-array-into-increasing-sequences) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sj1815/leetcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1095-two-city-scheduling) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/sj1815/leetcode-questions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sj1815/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1176-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1176-design-a-leaderboard) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1815/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
