@@ -6,9 +6,9 @@ class Solution:
 
         for i in range(n):
             if i < len(word1):
-                res[i] += word1[i]
+                res += word1[i]
             if i < len(word2):
-                res[i] += word2[i]
+                res += word2[i]
         
 
         return ''.join(res)
