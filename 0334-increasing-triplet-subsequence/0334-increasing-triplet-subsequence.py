@@ -10,6 +10,6 @@ class Solution:
                 second_no = num
             else:
                 return True
-        
+
         return False
-        
+
