@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
