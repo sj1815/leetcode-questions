@@ -26,4 +26,3 @@ class Solution:
             second = second.next
 
         return max_sum
-        
