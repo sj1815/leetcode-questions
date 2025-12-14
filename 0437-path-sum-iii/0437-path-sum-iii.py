@@ -15,7 +15,6 @@ class Solution:
                 return
 
             curr_sum += node.val
-
             self.total += prefix_sum[curr_sum - targetSum]
 
             prefix_sum[curr_sum] += 1
@@ -23,32 +22,6 @@ class Solution:
             dfs(node.left, curr_sum)
             dfs(node.right, curr_sum)
             prefix_sum[curr_sum] -= 1
-
+        
         dfs(root, 0)
         return self.total
-
-
-
-        #--------------------------------------
-        #brute force
-
-        # self.total = 0
-        # def helper(node, curr):
-        #     if not node:
-        #         return 
-        #     helper(node.left, curr + node.val)
-        #     helper(node.right, curr + node.val)
-        #     if curr + node.val == targetSum:
-        #         self.total += 1        
-
-        # def dfs(node):
-        #     if not node:
-        #         return
-        #     helper(node, 0)
-        #     dfs(node.left)
-        #     dfs(node.right)
-
-        # dfs(root)
-        # return self.total
-        
-       
