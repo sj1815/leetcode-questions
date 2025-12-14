@@ -9,11 +9,9 @@ class Solution:
             for nei in range(n):
                 if isConnected[city][nei] == 1 and not visited[nei]:
                     dfs(nei)
-            
 
         for city in range(n):
             if not visited[city]:
                 dfs(city)
                 count += 1
-        return count        
-        
+        return count
