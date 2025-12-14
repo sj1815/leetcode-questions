@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/sj1815/leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0872-leaf-similar-trees](https://github.com/sj1815/leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sj1815/leetcode-questions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sj1815/leetcode-questions/tree/master/0872-leaf-similar-trees) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
