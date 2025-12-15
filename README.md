@@ -1133,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sj1815/leetcode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sj1815/leetcode-questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sj1815/leetcode-questions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sj1815/leetcode-questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
