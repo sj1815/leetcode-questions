@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1815/leetcode-questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1815/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/sj1815/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2542-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2542-maximum-subsequence-score) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/sj1815/leetcode-questions/tree/master/2169-simple-bank-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sj1815/leetcode-questions/tree/master/3678-design-task-manager) |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sj1815/leetcode-questions/tree/master/3678-design-task-manager) |
