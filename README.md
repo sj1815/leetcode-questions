@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/sj1815/leetcode-questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1815/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sj1815/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sj1815/leetcode-questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sj1815/leetcode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
