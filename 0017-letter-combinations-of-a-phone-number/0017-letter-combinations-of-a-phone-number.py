@@ -2,9 +2,9 @@ class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if digits == '':
             return []
-        
+
         n = len(digits)
-        ans, res = [], []
+        res, ans = [], []
         letter_map = {
             "2" : "abc",
             "3" : "def",
@@ -19,19 +19,17 @@ class Solution:
         def backtrack(i = 0):
             if i == n:
                 ans.append(''.join(res))
-                return
-            
+                return 
+
             for letter in letter_map[digits[i]]:
                 res.append(letter)
                 backtrack(i + 1)
                 res.pop()
 
+        
         backtrack(0)
         return ans
 
 
-
         
-
-
         
