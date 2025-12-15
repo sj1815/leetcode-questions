@@ -7,6 +7,6 @@ class Solution:
             if num > min_heap[0]:
                 heapq.heappop(min_heap)
                 heapq.heappush(min_heap, num)
-        
+
         return min_heap[0]
         
