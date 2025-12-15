@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sj1815/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2542-maximum-subsequence-score) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2542-maximum-subsequence-score) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sj1815/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/sj1815/leetcode-questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sj1815/leetcode-questions/tree/master/3336-water-bottles-ii) |
