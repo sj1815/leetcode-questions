@@ -1,13 +1,16 @@
 class Solution:
-    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
-        intervals.sort(key=lambda x: x[1])  # Sort by end time
-        count = 0
-        prev_end = float('-inf')
+    def findMinArrowShots(self, points: List[List[int]]) -> int:
+        if not points:
+            return 0
 
-        for start, end in intervals:
-            if start >= prev_end:
-                prev_end = end  # Keep interval
-            else:
-                count += 1      # Overlaps → remove
+        points.sort(key = lambda x : x[1])
 
-        return count
+        arrows = 1
+        left = points[0][1]
+        for start, right in points:
+            if left < start:
+                arrows += 1
+                left = right
+
+        return arrows
+        
