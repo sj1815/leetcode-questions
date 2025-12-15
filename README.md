@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/sj1815/leetcode-questions/tree/master/0924-fair-candy-swap) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sj1815/leetcode-questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sj1815/leetcode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/sj1815/leetcode-questions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1815/leetcode-questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
