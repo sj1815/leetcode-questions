@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sj1815/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sj1815/leetcode-questions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/sj1815/leetcode-questions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sj1815/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sj1815/leetcode-questions/tree/master/0441-arranging-coins) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sj1815/leetcode-questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sj1815/leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sj1815/leetcode-questions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sj1815/leetcode-questions/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sj1815/leetcode-questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/sj1815/leetcode-questions/tree/master/0224-basic-calculator) |
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sj1815/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sj1815/leetcode-questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/sj1815/leetcode-questions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/sj1815/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0364-nested-list-weight-sum-ii](https://github.com/sj1815/leetcode-questions/tree/master/0364-nested-list-weight-sum-ii) |
