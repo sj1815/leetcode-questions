@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sj1815/leetcode-questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/sj1815/leetcode-questions/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sj1815/leetcode-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sj1815/leetcode-questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1815/leetcode-questions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/sj1815/leetcode-questions/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/sj1815/leetcode-questions/tree/master/2122-count-special-quadruplets) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [1118-divide-array-into-increasing-sequences](https://github.com/sj1815/leetcode-questions/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1815/leetcode-questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1487,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sj1815/leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sj1815/leetcode-questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
