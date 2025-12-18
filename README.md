@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
+| [1056-confusing-number](https://github.com/sj1815/leetcode-questions/tree/master/1056-confusing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
