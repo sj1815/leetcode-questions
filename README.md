@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0636-exclusive-time-of-functions](https://github.com/sj1815/leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/sj1815/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
