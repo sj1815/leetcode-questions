@@ -7,5 +7,6 @@ class Solution:
         a = [0] * n
         for i in range(n):
             a[(i + k) % n] = nums[i]
+        
         nums[:] = a
-
+        
