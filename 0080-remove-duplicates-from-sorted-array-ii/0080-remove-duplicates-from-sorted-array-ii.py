@@ -6,6 +6,5 @@ class Solution:
             if n < 2 or num != nums[n - 2]:
                 nums[n] = num
                 n += 1
-
-        return n
         
+        return n
