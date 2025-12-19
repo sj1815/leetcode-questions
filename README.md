@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sj1815/leetcode-questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1100-connecting-cities-with-minimum-cost](https://github.com/sj1815/leetcode-questions/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sj1815/leetcode-questions/tree/master/0827-making-a-large-island) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/sj1815/leetcode-questions/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sj1815/leetcode-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
+| [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sj1815/leetcode-questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1815/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
