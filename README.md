@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/sj1815/leetcode-questions/tree/master/0259-3sum-smaller) |
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
+| [0274-h-index](https://github.com/sj1815/leetcode-questions/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/sj1815/leetcode-questions/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/sj1815/leetcode-questions/tree/master/0286-walls-and-gates) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/sj1815/leetcode-questions/tree/master/0259-3sum-smaller) |
+| [0274-h-index](https://github.com/sj1815/leetcode-questions/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/sj1815/leetcode-questions/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -1576,4 +1578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/sj1815/leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/sj1815/leetcode-questions/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sj1815/leetcode-questions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
