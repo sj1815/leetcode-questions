@@ -9,7 +9,7 @@ class RandomizedSet:
             return False
         self.dict[val] = len(self.list)
         self.list.append(val)
-        return True      
+        return True
 
     def remove(self, val: int) -> bool:
         if val in self.dict:
@@ -20,11 +20,10 @@ class RandomizedSet:
             self.list.pop()
             del self.dict[val]
             return True
-        return False    
+        return False   
 
     def getRandom(self) -> int:
         return choice(self.list)
-        
 
 
 # Your RandomizedSet object will be instantiated and called as such:
