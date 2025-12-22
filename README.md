@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1815/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/sj1815/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sj1815/leetcode-questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
@@ -1367,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sj1815/leetcode-questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1405,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
