@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sj1815/leetcode-questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/sj1815/leetcode-questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1815/leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/sj1815/leetcode-questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sj1815/leetcode-questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1815/leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
