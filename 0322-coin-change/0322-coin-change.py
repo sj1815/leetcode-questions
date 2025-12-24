@@ -11,12 +11,10 @@ class Solution:
                 if diff < 0:
                     break
                 minn = min(minn, dp[diff] + 1)
-            
+
             dp[i] = minn
         
         if dp[amount] < float('inf'):
             return dp[amount]
         else:
             return -1
-
-        
