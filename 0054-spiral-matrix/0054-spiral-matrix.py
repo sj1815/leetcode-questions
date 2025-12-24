@@ -3,7 +3,7 @@ class Solution:
         m, n = len(matrix), len(matrix[0])
         ans = []
         i, j = 0, 0
-        UP, RIGHT, DOWN, LEFT = 0 , 1, 2, 3
+        UP, RIGHT, DOWN, LEFT = 0, 1, 2, 3
         direction = RIGHT
 
         UP_WALL = 0
