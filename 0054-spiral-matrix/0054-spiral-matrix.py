@@ -4,50 +4,47 @@ class Solution:
         ans = []
         i, j = 0, 0
         UP, RIGHT, DOWN, LEFT = 0, 1, 2, 3
-        direction = RIGHT
+        DIRECTION = RIGHT
 
         UP_WALL = 0
         RIGHT_WALL = n
-        DOWN_WALL = m
+        DOWN_WALL= m
         LEFT_WALL = -1
 
-        while len(ans) != m*n:
-            if direction == RIGHT:
+        while len(ans) != m * n:
+            if DIRECTION == RIGHT:
                 while j < RIGHT_WALL:
                     ans.append(matrix[i][j])
                     j += 1
                 i, j = i + 1, j - 1
                 RIGHT_WALL -= 1
-                direction = DOWN
-            elif direction == DOWN:
+                DIRECTION = DOWN
+            elif DIRECTION == DOWN:
                 while i < DOWN_WALL:
                     ans.append(matrix[i][j])
                     i += 1
                 i, j = i - 1, j - 1
                 DOWN_WALL -= 1
-                direction = LEFT
-            elif direction == LEFT:
+                DIRECTION = LEFT
+            elif DIRECTION == LEFT:
                 while j > LEFT_WALL:
                     ans.append(matrix[i][j])
                     j -= 1
                 i, j = i - 1, j + 1
                 LEFT_WALL += 1
-                direction = UP
+                DIRECTION = UP
             else:
                 while i > UP_WALL:
                     ans.append(matrix[i][j])
                     i -= 1
                 i, j = i + 1, j + 1
                 UP_WALL += 1
-                direction = RIGHT
+                DIRECTION = RIGHT
 
         return ans
 
-        pass
+            
 
-[1,2,3,4],
-[5,6,7,8],
-[9,10,11,12],
-[13,14,15,16],
-[17,18,19,20],
-[21,22,23,24]
+
+
+        
