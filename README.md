@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sj1815/leetcode-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/sj1815/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sj1815/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sj1815/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sj1815/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sj1815/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sj1815/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sj1815/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sj1815/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sj1815/leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sj1815/leetcode-questions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
