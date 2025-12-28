@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sj1815/leetcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1386-cinema-seat-allocation](https://github.com/sj1815/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1815/leetcode-questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sj1815/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1341,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sj1815/leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sj1815/leetcode-questions/tree/master/2141-maximum-running-time-of-n-computers) |
