@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1176-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1176-design-a-leaderboard) |
 | [1207-unique-number-of-occurrences](https://github.com/sj1815/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
+| [1244-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1244-design-a-leaderboard) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1176-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1176-design-a-leaderboard) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1244-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1244-design-a-leaderboard) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/sj1815/leetcode-questions/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
 | [1176-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1176-design-a-leaderboard) |
+| [1244-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1244-design-a-leaderboard) |
 | [1512-design-underground-system](https://github.com/sj1815/leetcode-questions/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
