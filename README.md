@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/sj1815/leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/sj1815/leetcode-questions/tree/master/0482-license-key-formatting) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0520-detect-capital](https://github.com/sj1815/leetcode-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/sj1815/leetcode-questions/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sj1815/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0490-the-maze](https://github.com/sj1815/leetcode-questions/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sj1815/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/sj1815/leetcode-questions/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/sj1815/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sj1815/leetcode-questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/sj1815/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/sj1815/leetcode-questions/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/sj1815/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sj1815/leetcode-questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/sj1815/leetcode-questions/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/sj1815/leetcode-questions/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
@@ -1111,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sj1815/leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
@@ -1283,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 ## Ordered Set
 |  |
@@ -1719,4 +1726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sj1815/leetcode-questions/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 <!---LeetCode Topics End-->
