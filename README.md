@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sj1815/leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sj1815/leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sj1815/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/sj1815/leetcode-questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/sj1815/leetcode-questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sj1815/leetcode-questions/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sj1815/leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/sj1815/leetcode-questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1130,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1815/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sj1815/leetcode-questions/tree/master/3678-design-task-manager) |
@@ -1191,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1287,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/sj1815/leetcode-questions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sj1815/leetcode-questions/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -1354,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/sj1815/leetcode-questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sj1815/leetcode-questions/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/sj1815/leetcode-questions/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sj1815/leetcode-questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1815/leetcode-questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
