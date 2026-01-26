@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1118-divide-array-into-increasing-sequences](https://github.com/sj1815/leetcode-questions/tree/master/1118-divide-array-into-increasing-sequences) |
 | [1176-diet-plan-performance](https://github.com/sj1815/leetcode-questions/tree/master/1176-diet-plan-performance) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sj1815/leetcode-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1200-minimum-absolute-difference](https://github.com/sj1815/leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sj1815/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1176-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1176-design-a-leaderboard) |
+| [1200-minimum-absolute-difference](https://github.com/sj1815/leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1244-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1244-design-a-leaderboard) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
