@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0370-range-addition](https://github.com/sj1815/leetcode-questions/tree/master/0370-range-addition) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sj1815/leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1198,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0933-number-of-recent-calls](https://github.com/sj1815/leetcode-questions/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/sj1815/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
@@ -1460,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sj1815/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/sj1815/leetcode-questions/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sj1815/leetcode-questions/tree/master/0954-maximum-sum-circular-subarray) |
