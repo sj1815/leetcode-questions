@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sj1815/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1512-design-underground-system](https://github.com/sj1815/leetcode-questions/tree/master/1512-design-underground-system) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sj1815/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sj1815/leetcode-questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sj1815/leetcode-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sj1815/leetcode-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
