@@ -1370,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/sj1815/leetcode-questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/sj1815/leetcode-questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sj1815/leetcode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sj1815/leetcode-questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
