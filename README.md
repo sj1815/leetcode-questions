@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/sj1815/leetcode-questions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/sj1815/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/sj1815/leetcode-questions/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
