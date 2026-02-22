@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/sj1815/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sj1815/leetcode-questions/tree/master/0394-decode-string) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/sj1815/leetcode-questions/tree/master/0280-wiggle-sort) |
 | [0316-remove-duplicate-letters](https://github.com/sj1815/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0402-remove-k-digits](https://github.com/sj1815/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sj1815/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sj1815/leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sj1815/leetcode-questions/tree/master/0455-assign-cookies) |
@@ -1160,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/sj1815/leetcode-questions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sj1815/leetcode-questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
@@ -1198,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
