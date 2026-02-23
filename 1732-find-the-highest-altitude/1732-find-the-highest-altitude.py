@@ -4,6 +4,6 @@ class Solution:
         
         for alt_gain in gain:
             curr_alt += alt_gain
-            hightest_alt = max(highest_alt, curr_alt)
+            highest_alt = max(highest_alt, curr_alt)
 
         return highest_alt
