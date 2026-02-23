@@ -10,5 +10,3 @@ class Solution:
             sum_left += nums[i]
 
         return -1
-
-        
