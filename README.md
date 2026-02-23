@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sj1815/leetcode-questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sj1815/leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/sj1815/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sj1815/leetcode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/sj1815/leetcode-questions/tree/master/0924-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/sj1815/leetcode-questions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
@@ -1646,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sj1815/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1815/leetcode-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sj1815/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1679,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/sj1815/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1176-diet-plan-performance](https://github.com/sj1815/leetcode-questions/tree/master/1176-diet-plan-performance) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sj1815/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
