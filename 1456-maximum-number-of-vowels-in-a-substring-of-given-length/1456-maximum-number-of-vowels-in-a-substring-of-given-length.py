@@ -1,8 +1,7 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
-        vowels = set('aeiou')
-        count = 0
-        max_count = 0
+        vowels = set("aeiou")
+        max_count = count = 0
 
         for i in range(len(s)):
             if s[i] in vowels:
@@ -15,5 +14,3 @@ class Solution:
         return max_count
 
             
-
-        
