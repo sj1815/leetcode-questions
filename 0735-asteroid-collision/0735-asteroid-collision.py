@@ -14,6 +14,6 @@ class Solution:
                 else:
                     if stack[-1] == abs(a):
                         stack.pop()
-        
+
         ans += stack
         return ans
