@@ -1,7 +1,7 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         res = []
-        
+
         n = max(len(word1), len(word2))
 
         for i in range(n):
@@ -9,6 +9,7 @@ class Solution:
                 res += word1[i]
             if i < len(word2):
                 res += word2[i]
-        
 
-        return ''.join(res)
+        return "".join(res)
+
+
