@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/sj1815/leetcode-questions/tree/master/1512-design-underground-system) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1768-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1768-merge-strings-alternately) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sj1815/leetcode-questions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
