@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sj1815/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sj1815/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sj1815/leetcode-questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sj1815/leetcode-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sj1815/leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/sj1815/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/sj1815/leetcode-questions/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1815/leetcode-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/sj1815/leetcode-questions/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
