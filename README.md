@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sj1815/leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/sj1815/leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1815/leetcode-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/sj1815/leetcode-questions/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
