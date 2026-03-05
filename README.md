@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sj1815/leetcode-questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sj1815/leetcode-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sj1815/leetcode-questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1815/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sj1815/leetcode-questions/tree/master/2141-maximum-running-time-of-n-computers) |
