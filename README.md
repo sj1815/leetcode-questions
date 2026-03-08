@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
+| [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0520-detect-capital](https://github.com/sj1815/leetcode-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/sj1815/leetcode-questions/tree/master/0551-student-attendance-record-i) |
+| [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sj1815/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
+| [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0933-number-of-recent-calls](https://github.com/sj1815/leetcode-questions/tree/master/0933-number-of-recent-calls) |
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
@@ -1384,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
