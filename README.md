@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sj1815/leetcode-questions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sj1815/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1694,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sj1815/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sj1815/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sj1815/leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sj1815/leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
