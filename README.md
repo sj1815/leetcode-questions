@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/sj1815/leetcode-questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sj1815/leetcode-questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/sj1815/leetcode-questions/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sj1815/leetcode-questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/sj1815/leetcode-questions/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sj1815/leetcode-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sj1815/leetcode-questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1815/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
@@ -1216,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sj1815/leetcode-questions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1708,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/sj1815/leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/sj1815/leetcode-questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/sj1815/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
