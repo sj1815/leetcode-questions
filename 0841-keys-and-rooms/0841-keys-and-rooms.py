@@ -3,8 +3,8 @@ class Solution:
         seen = set()
 
         def dfs(room):
-            seen.add(room)
-            for key in rooms[room]:
+           seen.add(room)
+           for key in rooms[room]:
                 if key not in seen:
                     dfs(key)
 
