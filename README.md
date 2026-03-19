@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sj1815/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sj1815/leetcode-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/sj1815/leetcode-questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sj1815/leetcode-questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/sj1815/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sj1815/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sj1815/leetcode-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sj1815/leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/sj1815/leetcode-questions/tree/master/3797-design-spreadsheet) |
@@ -1727,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sj1815/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sj1815/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sj1815/leetcode-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sj1815/leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sj1815/leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
