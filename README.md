@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sj1815/leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sj1815/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sj1815/leetcode-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sj1815/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/sj1815/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sj1815/leetcode-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/sj1815/leetcode-questions/tree/master/1830-count-good-meals) |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/sj1815/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/sj1815/leetcode-questions/tree/master/2169-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1321,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sj1815/leetcode-questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/sj1815/leetcode-questions/tree/master/1582-design-browser-history) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sj1815/leetcode-questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
@@ -1341,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sj1815/leetcode-questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sj1815/leetcode-questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bucket Sort
 |  |
@@ -1494,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/sj1815/leetcode-questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/sj1815/leetcode-questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sj1815/leetcode-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
