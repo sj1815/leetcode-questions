@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/sj1815/leetcode-questions/tree/master/0305-number-of-islands-ii) |
 | [0312-burst-balloons](https://github.com/sj1815/leetcode-questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sj1815/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/sj1815/leetcode-questions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/sj1815/leetcode-questions/tree/master/0332-reconstruct-itinerary) |
 | [0364-nested-list-weight-sum-ii](https://github.com/sj1815/leetcode-questions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/sj1815/leetcode-questions/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0364-nested-list-weight-sum-ii](https://github.com/sj1815/leetcode-questions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/sj1815/leetcode-questions/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1815/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/sj1815/leetcode-questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -1125,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sj1815/leetcode-questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1420,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sj1815/leetcode-questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
@@ -1921,6 +1928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
