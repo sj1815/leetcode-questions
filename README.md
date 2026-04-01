@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sj1815/leetcode-questions/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/sj1815/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/sj1815/leetcode-questions/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1815/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/sj1815/leetcode-questions/tree/master/0582-kill-process) |
 | [0605-can-place-flowers](https://github.com/sj1815/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sj1815/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sj1815/leetcode-questions/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+| [0582-kill-process](https://github.com/sj1815/leetcode-questions/tree/master/0582-kill-process) |
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/sj1815/leetcode-questions/tree/master/0642-design-search-autocomplete-system) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sj1815/leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sj1815/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0582-kill-process](https://github.com/sj1815/leetcode-questions/tree/master/0582-kill-process) |
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1670,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sj1815/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sj1815/leetcode-questions/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+| [0582-kill-process](https://github.com/sj1815/leetcode-questions/tree/master/0582-kill-process) |
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
