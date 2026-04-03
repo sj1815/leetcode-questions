@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/sj1815/leetcode-questions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sj1815/leetcode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sj1815/leetcode-questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sj1815/leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sj1815/leetcode-questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sj1815/leetcode-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/sj1815/leetcode-questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sj1815/leetcode-questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/sj1815/leetcode-questions/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sj1815/leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sj1815/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sj1815/leetcode-questions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sj1815/leetcode-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sj1815/leetcode-questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sj1815/leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sj1815/leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -1634,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sj1815/leetcode-questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sj1815/leetcode-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/sj1815/leetcode-questions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3827-implement-router](https://github.com/sj1815/leetcode-questions/tree/master/3827-implement-router) |
 ## Queue
