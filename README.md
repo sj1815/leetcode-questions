@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/sj1815/leetcode-questions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1815/leetcode-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0924-fair-candy-swap](https://github.com/sj1815/leetcode-questions/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sj1815/leetcode-questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/sj1815/leetcode-questions/tree/master/1006-vowel-spellchecker) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/sj1815/leetcode-questions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/sj1815/leetcode-questions/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sj1815/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sj1815/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sj1815/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sj1815/leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sj1815/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sj1815/leetcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
