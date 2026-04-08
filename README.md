@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sj1815/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
+| [0755-pour-water](https://github.com/sj1815/leetcode-questions/tree/master/0755-pour-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sj1815/leetcode-questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0788-minimize-max-distance-to-gas-station](https://github.com/sj1815/leetcode-questions/tree/master/0788-minimize-max-distance-to-gas-station) |
@@ -1549,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sj1815/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sj1815/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sj1815/leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0755-pour-water](https://github.com/sj1815/leetcode-questions/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sj1815/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
