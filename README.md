@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sj1815/leetcode-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/sj1815/leetcode-questions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sj1815/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/sj1815/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
@@ -2033,6 +2035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sj1815/leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
