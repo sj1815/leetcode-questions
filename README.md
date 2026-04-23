@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
+| [2615-sum-of-distances](https://github.com/sj1815/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/sj1815/leetcode-questions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+| [2615-sum-of-distances](https://github.com/sj1815/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sj1815/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
@@ -1838,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sj1815/leetcode-questions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/sj1815/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sj1815/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/2906-construct-product-matrix) |
