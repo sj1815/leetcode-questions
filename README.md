@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/sj1815/leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1815/leetcode-questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/sj1815/leetcode-questions/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1815/leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
