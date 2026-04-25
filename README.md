@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
 | [0274-h-index](https://github.com/sj1815/leetcode-questions/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/sj1815/leetcode-questions/tree/master/0280-wiggle-sort) |
+| [0281-zigzag-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/sj1815/leetcode-questions/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sj1815/leetcode-questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/sj1815/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -1692,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sj1815/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0281-zigzag-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0281-zigzag-iterator) |
 | [0362-design-hit-counter](https://github.com/sj1815/leetcode-questions/tree/master/0362-design-hit-counter) |
 | [0379-design-phone-directory](https://github.com/sj1815/leetcode-questions/tree/master/0379-design-phone-directory) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
@@ -1976,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0173-binary-search-tree-iterator) |
+| [0281-zigzag-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0281-zigzag-iterator) |
 ## Trie
 |  |
 | ------- |
