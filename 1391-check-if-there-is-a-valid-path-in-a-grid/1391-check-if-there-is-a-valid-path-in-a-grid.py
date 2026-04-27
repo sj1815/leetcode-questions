@@ -37,7 +37,6 @@ class Solution:
                     if (nx, ny) in visited:
                         continue
                     
-                    # check if next cell connects back
                     if opposite[(dx, dy)] in dirs[grid[nx][ny]]:
                         visited.add((nx, ny))
                         queue.append((nx, ny))
