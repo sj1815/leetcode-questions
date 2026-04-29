@@ -1521,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sj1815/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sj1815/leetcode-questions/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sj1815/leetcode-questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
@@ -2049,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sj1815/leetcode-questions/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sj1815/leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
