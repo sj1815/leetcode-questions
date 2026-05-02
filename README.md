@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sj1815/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/sj1815/leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sj1815/leetcode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/sj1815/leetcode-questions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/sj1815/leetcode-questions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/sj1815/leetcode-questions/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/sj1815/leetcode-questions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/sj1815/leetcode-questions/tree/master/0806-domino-and-tromino-tiling) |
