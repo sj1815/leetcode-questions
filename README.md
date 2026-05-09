@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sj1815/leetcode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sj1815/leetcode-questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/sj1815/leetcode-questions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sj1815/leetcode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/sj1815/leetcode-questions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sj1815/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sj1815/leetcode-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/sj1815/leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
