@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sj1815/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2615-sum-of-distances](https://github.com/sj1815/leetcode-questions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/sj1815/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/sj1815/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
 | [2643-row-with-maximum-ones](https://github.com/sj1815/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/sj1815/leetcode-questions/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sj1815/leetcode-questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1622,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sj1815/leetcode-questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sj1815/leetcode-questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
