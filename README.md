@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sj1815/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sj1815/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1815/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sj1815/leetcode-questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sj1815/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sj1815/leetcode-questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sj1815/leetcode-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sj1815/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sj1815/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -2073,6 +2076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sj1815/leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sj1815/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Merge Sort
 |  |
 | ------- |
