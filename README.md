@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sj1815/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/sj1815/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sj1815/leetcode-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1756-design-most-recently-used-queue](https://github.com/sj1815/leetcode-questions/tree/master/1756-design-most-recently-used-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sj1815/leetcode-questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/sj1815/leetcode-questions/tree/master/1813-maximum-erasure-value) |
