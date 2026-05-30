@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sj1815/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/sj1815/leetcode-questions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/sj1815/leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sj1815/leetcode-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/sj1815/leetcode-questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -1768,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sj1815/leetcode-questions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/sj1815/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/sj1815/leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sj1815/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sj1815/leetcode-questions/tree/master/3453-separate-squares-i) |
@@ -2111,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [1622-fancy-sequence](https://github.com/sj1815/leetcode-questions/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/sj1815/leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/sj1815/leetcode-questions/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sj1815/leetcode-questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## String Matching
@@ -2159,4 +2162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-employee-free-time](https://github.com/sj1815/leetcode-questions/tree/master/0759-employee-free-time) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/sj1815/leetcode-questions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
