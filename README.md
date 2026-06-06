@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sj1815/leetcode-questions/tree/master/0696-count-binary-substrings) |
+| [0723-candy-crush](https://github.com/sj1815/leetcode-questions/tree/master/0723-candy-crush) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/sj1815/leetcode-questions/tree/master/0881-boats-to-save-people) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sj1815/leetcode-questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0723-candy-crush](https://github.com/sj1815/leetcode-questions/tree/master/0723-candy-crush) |
 | [0724-find-pivot-index](https://github.com/sj1815/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/sj1815/leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/sj1815/leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
+| [0723-candy-crush](https://github.com/sj1815/leetcode-questions/tree/master/0723-candy-crush) |
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sj1815/leetcode-questions/tree/master/0827-making-a-large-island) |
@@ -1686,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/sj1815/leetcode-questions/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/sj1815/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sj1815/leetcode-questions/tree/master/0657-robot-return-to-origin) |
+| [0723-candy-crush](https://github.com/sj1815/leetcode-questions/tree/master/0723-candy-crush) |
 | [0735-asteroid-collision](https://github.com/sj1815/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0755-pour-water](https://github.com/sj1815/leetcode-questions/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
