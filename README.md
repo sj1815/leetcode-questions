@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sj1815/leetcode-questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/sj1815/leetcode-questions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sj1815/leetcode-questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2122-count-special-quadruplets](https://github.com/sj1815/leetcode-questions/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/sj1815/leetcode-questions/tree/master/2169-simple-bank-system) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/sj1815/leetcode-questions/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sj1815/leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/sj1815/leetcode-questions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sj1815/leetcode-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/sj1815/leetcode-questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2122-count-special-quadruplets](https://github.com/sj1815/leetcode-questions/tree/master/2122-count-special-quadruplets) |
@@ -2025,6 +2027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sj1815/leetcode-questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sj1815/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1815/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/sj1815/leetcode-questions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/sj1815/leetcode-questions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
