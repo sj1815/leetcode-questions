@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-count-good-meals](https://github.com/sj1815/leetcode-questions/tree/master/1830-count-good-meals) |
 | [1833-maximum-ice-cream-bars](https://github.com/sj1815/leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sj1815/leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sj1815/leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sj1815/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sj1815/leetcode-questions/tree/master/1861-rotating-the-box) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sj1815/leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sj1815/leetcode-questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sj1815/leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -1388,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sj1815/leetcode-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sj1815/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/sj1815/leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sj1815/leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
