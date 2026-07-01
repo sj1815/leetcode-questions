@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
 | [0305-number-of-islands-ii](https://github.com/sj1815/leetcode-questions/tree/master/0305-number-of-islands-ii) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/sj1815/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/sj1815/leetcode-questions/tree/master/0224-basic-calculator) |
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
+| [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
 | [0316-remove-duplicate-letters](https://github.com/sj1815/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/sj1815/leetcode-questions/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
 | [0289-game-of-life](https://github.com/sj1815/leetcode-questions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0303-range-sum-query-immutable) |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sj1815/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/sj1815/leetcode-questions/tree/master/0281-zigzag-iterator) |
+| [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
 | [0295-find-median-from-data-stream](https://github.com/sj1815/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sj1815/leetcode-questions/tree/master/0304-range-sum-query-2d-immutable) |
