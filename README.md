@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sj1815/leetcode-questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sj1815/leetcode-questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sj1815/leetcode-questions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sj1815/leetcode-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sj1815/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1112,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sj1815/leetcode-questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Graph
 |  |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/sj1815/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/sj1815/leetcode-questions/tree/master/2643-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sj1815/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3031-construct-product-matrix](https://github.com/sj1815/leetcode-questions/tree/master/3031-construct-product-matrix) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/sj1815/leetcode-questions/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/sj1815/leetcode-questions/tree/master/2636-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sj1815/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1815/leetcode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1839,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sj1815/leetcode-questions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/sj1815/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/sj1815/leetcode-questions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sj1815/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2244,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sj1815/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sj1815/leetcode-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sweep Line
 |  |
