@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/sj1815/leetcode-questions/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
 | [0316-remove-duplicate-letters](https://github.com/sj1815/leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0320-generalized-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0320-generalized-abbreviation) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/sj1815/leetcode-questions/tree/master/0358-rearrange-string-k-distance-apart) |
@@ -1727,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sj1815/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sj1815/leetcode-questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0320-generalized-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/sj1815/leetcode-questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
@@ -2030,6 +2032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sj1815/leetcode-questions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
+| [0320-generalized-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0320-generalized-abbreviation) |
 | [0401-binary-watch](https://github.com/sj1815/leetcode-questions/tree/master/0401-binary-watch) |
 | [0489-robot-room-cleaner](https://github.com/sj1815/leetcode-questions/tree/master/0489-robot-room-cleaner) |
 | [0813-all-paths-from-source-to-target](https://github.com/sj1815/leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
