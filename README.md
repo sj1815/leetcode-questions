@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
+| [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/sj1815/leetcode-questions/tree/master/0797-rabbits-in-forest) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/sj1815/leetcode-questions/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
+| [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [0761-special-binary-string](https://github.com/sj1815/leetcode-questions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
 | [0755-pour-water](https://github.com/sj1815/leetcode-questions/tree/master/0755-pour-water) |
+| [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sj1815/leetcode-questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0759-employee-free-time](https://github.com/sj1815/leetcode-questions/tree/master/0759-employee-free-time) |
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
@@ -2245,6 +2248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/sj1815/leetcode-questions/tree/master/0336-palindrome-pairs) |
 | [0642-design-search-autocomplete-system](https://github.com/sj1815/leetcode-questions/tree/master/0642-design-search-autocomplete-system) |
+| [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sj1815/leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -2278,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sj1815/leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
+| [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [0796-rotate-string](https://github.com/sj1815/leetcode-questions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sj1815/leetcode-questions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Counting Sort
