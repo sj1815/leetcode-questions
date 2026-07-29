@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1858-longest-word-with-all-prefixes](https://github.com/sj1815/leetcode-questions/tree/master/1858-longest-word-with-all-prefixes) |
 | [1871-jump-game-vii](https://github.com/sj1815/leetcode-questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sj1815/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/sj1815/leetcode-questions/tree/master/1894-merge-strings-alternately) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sj1815/leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sj1815/leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sj1815/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1858-longest-word-with-all-prefixes](https://github.com/sj1815/leetcode-questions/tree/master/1858-longest-word-with-all-prefixes) |
 | [1861-rotating-the-box](https://github.com/sj1815/leetcode-questions/tree/master/1861-rotating-the-box) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/sj1815/leetcode-questions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sj1815/leetcode-questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sj1815/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sj1815/leetcode-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1858-longest-word-with-all-prefixes](https://github.com/sj1815/leetcode-questions/tree/master/1858-longest-word-with-all-prefixes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sj1815/leetcode-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/sj1815/leetcode-questions/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sj1815/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -2265,6 +2268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/sj1815/leetcode-questions/tree/master/0642-design-search-autocomplete-system) |
 | [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
+| [1858-longest-word-with-all-prefixes](https://github.com/sj1815/leetcode-questions/tree/master/1858-longest-word-with-all-prefixes) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sj1815/leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sj1815/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
