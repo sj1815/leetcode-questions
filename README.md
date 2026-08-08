@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sj1815/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sj1815/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1244-design-a-leaderboard](https://github.com/sj1815/leetcode-questions/tree/master/1244-design-a-leaderboard) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
 | [1331-rank-transform-of-an-array](https://github.com/sj1815/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sj1815/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
 | [1272-invalid-transactions](https://github.com/sj1815/leetcode-questions/tree/master/1272-invalid-transactions) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sj1815/leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sj1815/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sj1815/leetcode-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sj1815/leetcode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/sj1815/leetcode-questions/tree/master/1268-search-suggestions-system) |
@@ -1102,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1174,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -2041,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -2422,4 +2428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 <!---LeetCode Topics End-->
