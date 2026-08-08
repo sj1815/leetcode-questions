@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sj1815/leetcode-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/sj1815/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sj1815/leetcode-questions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sj1815/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sj1815/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sj1815/leetcode-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/sj1815/leetcode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sj1815/leetcode-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sj1815/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sj1815/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sj1815/leetcode-questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sj1815/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sj1815/leetcode-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sj1815/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sj1815/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sj1815/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sj1815/leetcode-questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1815/leetcode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1398,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sj1815/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sj1815/leetcode-questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sj1815/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sj1815/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sj1815/leetcode-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sj1815/leetcode-questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
