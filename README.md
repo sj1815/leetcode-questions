@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-confusing-number](https://github.com/sj1815/leetcode-questions/tree/master/1056-confusing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1152-maximum-number-of-ones](https://github.com/sj1815/leetcode-questions/tree/master/1152-maximum-number-of-ones) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sj1815/leetcode-questions/tree/master/1199-minimum-time-to-build-blocks) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sj1815/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1118-divide-array-into-increasing-sequences](https://github.com/sj1815/leetcode-questions/tree/master/1118-divide-array-into-increasing-sequences) |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1176-diet-plan-performance](https://github.com/sj1815/leetcode-questions/tree/master/1176-diet-plan-performance) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sj1815/leetcode-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sj1815/leetcode-questions/tree/master/1199-minimum-time-to-build-blocks) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sj1815/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/sj1815/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sj1815/leetcode-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sj1815/leetcode-questions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -2147,6 +2150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sj1815/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1815/leetcode-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sj1815/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -2278,6 +2282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sj1815/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sj1815/leetcode-questions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -2423,10 +2428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 ## Binary Lifting
 |  |
