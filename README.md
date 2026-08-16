@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sj1815/leetcode-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sj1815/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sj1815/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sj1815/leetcode-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sj1815/leetcode-questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1815/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sj1815/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sj1815/leetcode-questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/sj1815/leetcode-questions/tree/master/2058-concatenation-of-array) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1815/leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/sj1815/leetcode-questions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sj1815/leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/sj1815/leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sj1815/leetcode-questions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1623,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1815/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sj1815/leetcode-questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1815/leetcode-questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/sj1815/leetcode-questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2833-furthest-point-from-origin](https://github.com/sj1815/leetcode-questions/tree/master/2833-furthest-point-from-origin) |
@@ -2295,6 +2299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2443,12 +2448,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sj1815/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -2461,6 +2468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sj1815/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
