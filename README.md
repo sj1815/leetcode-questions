@@ -1370,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sj1815/leetcode-questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
+| [0351-android-unlock-patterns](https://github.com/sj1815/leetcode-questions/tree/master/0351-android-unlock-patterns) |
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sj1815/leetcode-questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -1837,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0320-generalized-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0320-generalized-abbreviation) |
 | [0338-counting-bits](https://github.com/sj1815/leetcode-questions/tree/master/0338-counting-bits) |
+| [0351-android-unlock-patterns](https://github.com/sj1815/leetcode-questions/tree/master/0351-android-unlock-patterns) |
 | [0401-binary-watch](https://github.com/sj1815/leetcode-questions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sj1815/leetcode-questions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -2155,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sj1815/leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0320-generalized-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/sj1815/leetcode-questions/tree/master/0351-android-unlock-patterns) |
 | [0401-binary-watch](https://github.com/sj1815/leetcode-questions/tree/master/0401-binary-watch) |
 | [0489-robot-room-cleaner](https://github.com/sj1815/leetcode-questions/tree/master/0489-robot-room-cleaner) |
 | [0813-all-paths-from-source-to-target](https://github.com/sj1815/leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -2298,6 +2301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0351-android-unlock-patterns](https://github.com/sj1815/leetcode-questions/tree/master/0351-android-unlock-patterns) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sj1815/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sj1815/leetcode-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
