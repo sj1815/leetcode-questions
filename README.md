@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sj1815/leetcode-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sj1815/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sj1815/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sj1815/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2250,6 +2251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/sj1815/leetcode-questions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/sj1815/leetcode-questions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sj1815/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sj1815/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1815/leetcode-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sj1815/leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sj1815/leetcode-questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
