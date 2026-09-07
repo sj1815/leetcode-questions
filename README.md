@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/sj1815/leetcode-questions/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/sj1815/leetcode-questions/tree/master/0796-rotate-string) |
 | [0800-similar-rgb-color](https://github.com/sj1815/leetcode-questions/tree/master/0800-similar-rgb-color) |
+| [0940-distinct-subsequences-ii](https://github.com/sj1815/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sj1815/leetcode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sj1815/leetcode-questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sj1815/leetcode-questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1416,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/sj1815/leetcode-questions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/sj1815/leetcode-questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/sj1815/leetcode-questions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sj1815/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sj1815/leetcode-questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sj1815/leetcode-questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
