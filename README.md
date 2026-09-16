@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sj1815/leetcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/sj1815/leetcode-questions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sj1815/leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/sj1815/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/sj1815/leetcode-questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1455,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sj1815/leetcode-questions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sj1815/leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sj1815/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1926,6 +1928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sj1815/leetcode-questions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sj1815/leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sj1815/leetcode-questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sj1815/leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sj1815/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2242,6 +2245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sj1815/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sj1815/leetcode-questions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/sj1815/leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sj1815/leetcode-questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/sj1815/leetcode-questions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sj1815/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/sj1815/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
