@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/sj1815/leetcode-questions/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1490-clone-n-ary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1490-clone-n-ary-tree) |
 | [1512-design-underground-system](https://github.com/sj1815/leetcode-questions/tree/master/1512-design-underground-system) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/sj1815/leetcode-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sj1815/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1815/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-design-underground-system](https://github.com/sj1815/leetcode-questions/tree/master/1512-design-underground-system) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sj1815/leetcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sj1815/leetcode-questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/sj1815/leetcode-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/sj1815/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/sj1815/leetcode-questions/tree/master/1448-maximum-69-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sj1815/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1815/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sj1815/leetcode-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1815/leetcode-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1815/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sj1815/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sj1815/leetcode-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sj1815/leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sj1815/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sj1815/leetcode-questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
