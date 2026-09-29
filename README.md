@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sj1815/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1236-web-crawler](https://github.com/sj1815/leetcode-questions/tree/master/1236-web-crawler) |
 | [1250-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1250-longest-common-subsequence) |
 | [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sj1815/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1815/leetcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
+| [1236-web-crawler](https://github.com/sj1815/leetcode-questions/tree/master/1236-web-crawler) |
 | [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/sj1815/leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1236-web-crawler](https://github.com/sj1815/leetcode-questions/tree/master/1236-web-crawler) |
 | [1257-smallest-common-region](https://github.com/sj1815/leetcode-questions/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/sj1815/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/sj1815/leetcode-questions/tree/master/1345-jump-game-iv) |
@@ -2451,6 +2454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0277-find-the-celebrity](https://github.com/sj1815/leetcode-questions/tree/master/0277-find-the-celebrity) |
 | [0489-robot-room-cleaner](https://github.com/sj1815/leetcode-questions/tree/master/0489-robot-room-cleaner) |
+| [1236-web-crawler](https://github.com/sj1815/leetcode-questions/tree/master/1236-web-crawler) |
 ## Database
 |  |
 | ------- |
