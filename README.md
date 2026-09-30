@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/sj1815/leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/sj1815/leetcode-questions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sj1815/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sj1815/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/sj1815/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
@@ -1847,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0937-online-stock-span) |
 | [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1096-brace-expansion-ii](https://github.com/sj1815/leetcode-questions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sj1815/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1214-two-sum-bsts](https://github.com/sj1815/leetcode-questions/tree/master/1214-two-sum-bsts) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -2623,6 +2625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sj1815/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sj1815/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
