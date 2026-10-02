@@ -902,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sj1815/leetcode-questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sj1815/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/sj1815/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/sj1815/leetcode-questions/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1815/leetcode-questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/sj1815/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/sj1815/leetcode-questions/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sj1815/leetcode-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sj1815/leetcode-questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sj1815/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/sj1815/leetcode-questions/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1815/leetcode-questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/sj1815/leetcode-questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sj1815/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
