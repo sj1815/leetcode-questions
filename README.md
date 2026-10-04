@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/sj1815/leetcode-questions/tree/master/0642-design-search-autocomplete-system) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/sj1815/leetcode-questions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/sj1815/leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/sj1815/leetcode-questions/tree/master/0696-count-binary-substrings) |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/sj1815/leetcode-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/sj1815/leetcode-questions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/sj1815/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sj1815/leetcode-questions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sj1815/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
+| [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sj1815/leetcode-questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/sj1815/leetcode-questions/tree/master/0788-rotated-digits) |
@@ -1844,6 +1847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sj1815/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/sj1815/leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/sj1815/leetcode-questions/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sj1815/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sj1815/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sj1815/leetcode-questions/tree/master/0901-online-stock-span) |
@@ -2630,6 +2634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sj1815/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
