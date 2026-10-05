@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/sj1815/leetcode-questions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/sj1815/leetcode-questions/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/sj1815/leetcode-questions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/sj1815/leetcode-questions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/sj1815/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sj1815/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sj1815/leetcode-questions/tree/master/0877-stone-game) |
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sj1815/leetcode-questions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/sj1815/leetcode-questions/tree/master/0835-image-overlap) |
 | [0898-transpose-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/sj1815/leetcode-questions/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/0994-rotting-oranges) |
