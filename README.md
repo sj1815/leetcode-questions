@@ -1707,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1815/leetcode-questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sj1815/leetcode-questions/tree/master/2023-design-movie-rental-system) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sj1815/leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sj1815/leetcode-questions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1924,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sj1815/leetcode-questions/tree/master/0505-the-maze-ii) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1815/leetcode-questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sj1815/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2573,6 +2575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sj1815/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/sj1815/leetcode-questions/tree/master/1059-all-paths-from-source-lead-to-destination) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sj1815/leetcode-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sj1815/leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1815/leetcode-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -2666,4 +2669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sj1815/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sj1815/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sj1815/leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/sj1815/leetcode-questions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
