@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sj1815/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0635-design-log-storage-system](https://github.com/sj1815/leetcode-questions/tree/master/0635-design-log-storage-system) |
 | [0645-set-mismatch](https://github.com/sj1815/leetcode-questions/tree/master/0645-set-mismatch) |
+| [0666-path-sum-iv](https://github.com/sj1815/leetcode-questions/tree/master/0666-path-sum-iv) |
 | [0753-open-the-lock](https://github.com/sj1815/leetcode-questions/tree/master/0753-open-the-lock) |
 | [0758-bold-words-in-string](https://github.com/sj1815/leetcode-questions/tree/master/0758-bold-words-in-string) |
 | [0768-partition-labels](https://github.com/sj1815/leetcode-questions/tree/master/0768-partition-labels) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0666-path-sum-iv](https://github.com/sj1815/leetcode-questions/tree/master/0666-path-sum-iv) |
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1815/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sj1815/leetcode-questions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/sj1815/leetcode-questions/tree/master/0642-design-search-autocomplete-system) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0666-path-sum-iv](https://github.com/sj1815/leetcode-questions/tree/master/0666-path-sum-iv) |
 | [0695-max-area-of-island](https://github.com/sj1815/leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sj1815/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/sj1815/leetcode-questions/tree/master/0813-all-paths-from-source-to-target) |
@@ -2241,6 +2244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0666-path-sum-iv](https://github.com/sj1815/leetcode-questions/tree/master/0666-path-sum-iv) |
 | [0772-construct-quad-tree](https://github.com/sj1815/leetcode-questions/tree/master/0772-construct-quad-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1815/leetcode-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -2294,6 +2298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sj1815/leetcode-questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0666-path-sum-iv](https://github.com/sj1815/leetcode-questions/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sj1815/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1815/leetcode-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sj1815/leetcode-questions/tree/master/0872-leaf-similar-trees) |
