@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0465-optimal-account-balancing](https://github.com/sj1815/leetcode-questions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sj1815/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0487-max-consecutive-ones-ii](https://github.com/sj1815/leetcode-questions/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/sj1815/leetcode-questions/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/sj1815/leetcode-questions/tree/master/0499-the-maze-iii) |
 | [0502-ipo](https://github.com/sj1815/leetcode-questions/tree/master/0502-ipo) |
@@ -1532,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0465-optimal-account-balancing](https://github.com/sj1815/leetcode-questions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/sj1815/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sj1815/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0487-max-consecutive-ones-ii](https://github.com/sj1815/leetcode-questions/tree/master/0487-max-consecutive-ones-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sj1815/leetcode-questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0656-coin-path](https://github.com/sj1815/leetcode-questions/tree/master/0656-coin-path) |
 | [0678-valid-parenthesis-string](https://github.com/sj1815/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
@@ -2465,6 +2467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sj1815/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0487-max-consecutive-ones-ii](https://github.com/sj1815/leetcode-questions/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sj1815/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
