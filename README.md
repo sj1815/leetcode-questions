@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sj1815/leetcode-questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/sj1815/leetcode-questions/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sj1815/leetcode-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1815/leetcode-questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/sj1815/leetcode-questions/tree/master/2409-count-days-spent-together) |
@@ -2144,6 +2145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sj1815/leetcode-questions/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sj1815/leetcode-questions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/sj1815/leetcode-questions/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sj1815/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1815/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sj1815/leetcode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sj1815/leetcode-questions/tree/master/2324-find-triangular-sum-of-an-array) |
