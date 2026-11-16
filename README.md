@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/sj1815/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sj1815/leetcode-questions/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/sj1815/leetcode-questions/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sj1815/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0288-unique-word-abbreviation](https://github.com/sj1815/leetcode-questions/tree/master/0288-unique-word-abbreviation) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sj1815/leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sj1815/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/sj1815/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/sj1815/leetcode-questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sj1815/leetcode-questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sj1815/leetcode-questions/tree/master/0212-word-search-ii) |
@@ -2054,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sj1815/leetcode-questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sj1815/leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sj1815/leetcode-questions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sj1815/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sj1815/leetcode-questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/sj1815/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
@@ -2483,6 +2486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1815/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sj1815/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sj1815/leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0487-max-consecutive-ones-ii](https://github.com/sj1815/leetcode-questions/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sj1815/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
@@ -2724,10 +2728,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1815/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1815/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Union-Find
 |  |
@@ -2818,4 +2824,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sj1815/leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
