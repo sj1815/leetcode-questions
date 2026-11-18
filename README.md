@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sj1815/leetcode-questions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/sj1815/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sj1815/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1815/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1815/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sj1815/leetcode-questions/tree/master/0419-battleships-in-a-board) |
@@ -1545,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sj1815/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/sj1815/leetcode-questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/sj1815/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/sj1815/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1815/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sj1815/leetcode-questions/tree/master/0435-non-overlapping-intervals) |
 | [0465-optimal-account-balancing](https://github.com/sj1815/leetcode-questions/tree/master/0465-optimal-account-balancing) |
@@ -2498,6 +2500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/sj1815/leetcode-questions/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sj1815/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/sj1815/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/sj1815/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0487-max-consecutive-ones-ii](https://github.com/sj1815/leetcode-questions/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sj1815/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
