@@ -817,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sj1815/leetcode-questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/sj1815/leetcode-questions/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/sj1815/leetcode-questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1061-number-of-valid-subarrays](https://github.com/sj1815/leetcode-questions/tree/master/1061-number-of-valid-subarrays) |
 | [1064-fixed-point](https://github.com/sj1815/leetcode-questions/tree/master/1064-fixed-point) |
 | [1067-campus-bikes-ii](https://github.com/sj1815/leetcode-questions/tree/master/1067-campus-bikes-ii) |
@@ -2509,6 +2510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sj1815/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1815/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/sj1815/leetcode-questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1176-diet-plan-performance](https://github.com/sj1815/leetcode-questions/tree/master/1176-diet-plan-performance) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sj1815/leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sj1815/leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
